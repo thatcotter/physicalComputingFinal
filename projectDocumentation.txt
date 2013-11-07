@@ -1,0 +1,7 @@
+Update 1 (11/7/130
+
+I’m starting up a project for my physical computing class and I’ll be documenting my process here.
+
+For my project, I’ll be making a synthesizer-type thing-a-ma-jig that primarily uses photo-resistors as an input. I’m intending to make it work in a similar fashion to a tremolo effect pedal. By using a pattern disk between the light source (be it an LED or the light in the room) and the photo-resistor, I will be able to variate the outcome.
+
+Depending on how difficult it is to separate the channels, I will either make three photo resistors controlling variables like rhythm, pitch, and volume, or I will opt to make three separate instruments that only vary in one of these ways.
